@@ -1,7 +1,7 @@
 
 <img align="right" src="/Image/Katyusha.png" width='553px' height='536px'>
 
-哈喽大家好, 这里是[king](https://github.com/w0xking/Katyusha). 由于左边的菜鸡正在学习所以让我介绍他!
+哈喽大家好, 这里是king！
 
 
 
