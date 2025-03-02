@@ -17,6 +17,17 @@
 
 - <img src="/Image/snort.gif" width="30px" alt="hi">宇宙、天体
 
+  <h3>💻 GitHub档案</h3>
+  <!-- https://github.com/anuraghazra/github-readme-stats -->
+
+  ![Top Langs](https://github-readme-status.sanyue.site/api/top-langs/?username=w0xking&theme=dracula&locale=cn&border_radius=12&layout=compact)
+  ![skyking's GitHub stats](https://github-readme-status.sanyue.site/api?username=w0xking&theme=dracula&locale=cn&border_radius=12)
+  <br/>
+  <h3>🔥 我的贡献</h3>
+  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+  <p>
+    <img src="https://github-readme-streak-stats-rho-lime.vercel.app?user=w0xking&theme=catppuccin-latte&locale=zh_Hans&card_width=755" alt="GitHub Streak" />
+  </p>
   
 
 <p align="center"> 
@@ -34,11 +45,6 @@
 <p align="center">
   <i> Open to anything under the stars :sparkles: </i>
 </p>
-
-
-
-
-
 
 <details>
   <summary> <b>  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">Things to know about me! </b></summary>
