@@ -51,7 +51,7 @@
 
 
  <!-- [![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=w0xking&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/w0xking/) -->
- [![Github Stats By Anurag](https://api.star-history.com/svg?repos=w0xking/Medusa&repos=w0xking/Kernelhub&repos=w0xking/ReiAyanami&repos=w0xking/HackerMind&repos=w0xking/CounterStrike&type=Date)](https://github.com/w0xking/)
+ [![Github Stats By Anurag](https://api.star-history.com/svg?repos=w0xking/w0xking.github.io&repos=w0xking/Kernelhub&repos=w0xking/ReiAyanami&repos=w0xking/HackerMind&repos=w0xking/CounterStrike&type=Date)](https://github.com/w0xking/)
 
 ![Github Stats By Anurag](https://raw.githubusercontent.com/w0xking/w0xking/master/github-metrics/steam.svg)
 
